@@ -22,7 +22,7 @@ url: # the base hostname & protocol for your site e.g. "https://mmistakes.github
 author: rodolfoferro
 twitter_username: FerroRodolfo
 github_username: RodolfoFerro
-logo: /assets/images/logo.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/logo (user).png # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -32,8 +32,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 5
