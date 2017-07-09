@@ -24,7 +24,6 @@ author: rodolfoferro
 twitter_username: defpodcastmx
 github_username: defpodcastmx
 logo: "/assets/images/logo (github) 600x600.png" # path of site logo, e.g. "/assets/images/logo.png"
-favicon: "/assets/images/flag.png"
 # google_analytics: UA-2011187-6
 disqus:
   shortname: https-defpodcastmx-github-io
