@@ -19,7 +19,7 @@ actions:
   - label: "Escuchar en Soundcloud"
     icon: soundcloud
     url: "https://soundcloud.com/defpodcastmx"
-  - label: "Escuchar en Soundcloud"
-    icon: soundcloud
-    url: "https://soundcloud.com/defpodcastmx"
+  # - label: "Convertirse en Patreon"
+  #   icon: soundcloud
+  #   url: "https://soundcloud.com/defpodcastmx"
 ---
