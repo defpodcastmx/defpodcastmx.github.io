@@ -17,8 +17,9 @@ lang: es-US
 title: "def Podcast(mx):"
 email: "defpodcastmx@gmail.com"
 description:
+favicon: "/img/favicon.ico"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://defpodcastmx.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: rodolfoferro
 twitter_username: defpodcastmx
 github_username: defpodcastmx
