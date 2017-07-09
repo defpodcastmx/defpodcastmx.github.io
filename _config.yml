@@ -35,7 +35,7 @@ disqus:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-incremental: false
+incremental: true
 
 # Markdown Processing
 kramdown:
@@ -106,3 +106,6 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# To generate files using bundle, run:
+# bundle exec jekyll build
