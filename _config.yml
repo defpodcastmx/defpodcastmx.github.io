@@ -72,3 +72,7 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# Enabling disqus:
+disqus:
+    shortname: rodolfo_ferro
