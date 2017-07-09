@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: "def Podcast(mx):"
+alt_title: <span style="color:#c3e344;">def</span> <span style="color:#3c78d8;">Podcast</span><span style="color:#b7b7b7;">(mx):</span>
 sub_title: "El podcast de Python en México.🇲🇽 ¡Ajúa! 🌮"
 image: "/assets/images/amine-ounnas-180287.jpg"
 introduction: |
