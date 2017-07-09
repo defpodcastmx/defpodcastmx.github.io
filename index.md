@@ -13,10 +13,10 @@ introduction: |
   - Disqus Comments and Google Analytics support
   - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 actions:
-  - label: "Get Started"
-    icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
+  - label: "Conoce Más"
+    icon: arrow-right
+    url: "https://defpodcastmx.github.io/about.html"
+  - label: "Escuchar en Soundcloud"
+    icon: soundcloud
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 ---
