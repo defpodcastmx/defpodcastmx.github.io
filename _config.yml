@@ -19,11 +19,8 @@ email: "rodolfoferroperez@gmail.com"
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name: Rodolfo Ferro
-  twitter: FerroRodolfo
-  picture: /assets/images/logo.png
-twitter_username: Rodolfo Ferro
+author: rodolfoferro
+twitter_username: FerroRodolfo
 github_username: RodolfoFerro
 logo: /assets/images/logo.png # path of site logo, e.g. "/assets/images/logo.png"
 
