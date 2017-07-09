@@ -17,8 +17,21 @@ t:
   posts: "Posts"
   page: "Página"
   of: "de"
-  min_read: "min read"
+  min_read: "min de lectura"
   present: "Presente"
+  by: "Por"
+  January: "Enero"
+  February: "Febrero"
+  March: "Marzo"
+  April: "Abril"
+  May: "Mayo"
+  June: "Junio"
+  July: "Julio"
+  August: "Agosto"
+  September: "Septiembre"
+  October: "Octubre"
+  November: "Noviembre"
+  December: "Diciembre"
 
 # Google Fonts
 google_fonts:
