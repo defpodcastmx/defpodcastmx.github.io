@@ -18,7 +18,7 @@ introduction: |
 actions:
   - label: "Conoce el proyecto"
     icon: arrow-right
-    url: "https://defpodcastmx.github.io/about.html"
+    url: "https://defpodcastmx.github.io/about"
   - label: "Escuchar en Soundcloud"
     icon: soundcloud
     url: "https://soundcloud.com/defpodcastmx"
