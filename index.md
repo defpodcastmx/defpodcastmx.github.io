@@ -13,7 +13,7 @@ introduction: |
   - Conocerás frameworks, librerías y tecnologías de sobre (o relacionadas) a Python.
   - Te enterarás de tips y herramientas que resulten útiles para tus desarrollos.
   - Encontrarás cada post bien descrito con las referencias respectivas.
-
+  <br/><br/>
 
 actions:
   - label: "Conoce Más"
