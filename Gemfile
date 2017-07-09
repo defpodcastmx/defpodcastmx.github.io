@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
 # use local theme gem for testing
-gem "jekyll-theme-basically-basic", path: "./"
+gem "jekyll-theme-basically-basic"
 
 # Jekyll plugins:
 group :jekyll_plugins do
-  # gem "jekyll-feed"
+  gem "jekyll-feed"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
