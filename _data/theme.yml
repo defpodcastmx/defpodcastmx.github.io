@@ -19,6 +19,7 @@ t:
   of: "de"
   min_read: "min read"
   present: "Presente"
+  by: "por"
 
 # Google Fonts
 google_fonts:
