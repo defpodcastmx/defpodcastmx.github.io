@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: es-MX
-title: "def Podcast(mx):"
+title: <span style="color:#c3e344;">def</span> <span style="color:#3c78d8;">Podcast</span><span style="color:#b7b7b7;">(mx):</span>
 email: "rodolfoferroperez@gmail.com"
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
