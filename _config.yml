@@ -23,8 +23,8 @@ url: "https://defpodcastmx.github.io/" # the base hostname & protocol for your s
 author: rodolfoferro
 twitter_username: defpodcastmx
 github_username: defpodcastmx
-logo: "/assets/images/logo (github) 600x600.png" # path of site logo, e.g. "/assets/images/logo.png"
-# google_analytics: UA-2011187-6
+logo: "/assets/images/Soundcloud (user).png" # path of site logo, e.g. "/assets/images/logo.png"
+google_analytics: UA-102237641-1
 disqus:
   shortname: https-defpodcastmx-github-io
 
