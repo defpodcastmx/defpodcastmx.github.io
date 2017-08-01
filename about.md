@@ -17,7 +17,7 @@ Pues bien, permíteme presentarme. Mi nombre es Rodolfo Ferro (el tipo de la fot
 
 Pero...
 
-Seguro te preguntas ahora sobre el contenido del programa. Pues bien, para ello me gustaría invitarte a que escuches el episodio número 0, el piloto. Aquí te contaré qué debes esperar y sabrás el contenido que habrá.
+Seguro te preguntas ahora sobre el contenido del programa. Pues bien, para ello me gustaría invitarte a que escuches el episodio número 0, el piloto. Aquí te contaré qué debes esperar y sabrás del contenido que habrá.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333146456&amp;color=00aabb&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe><br/>
 
