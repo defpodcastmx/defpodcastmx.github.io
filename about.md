@@ -3,12 +3,9 @@ title: "Acerca de..."
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+¡Hola!
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+Bienvenid@ a
+<span style="color:#c3e344;">def</span> <span style="color:#3c78d8;">Podcast</span><span style="color:#b7b7b7;">(mx):</span>, el primer podcast exclusivamente sobre <span style="text-decoration:none;">[Python](https://www.python.org/)</span> en México.
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+Aquí conocerás a programadores de habla hispana que trabajan con Python y te enterarás de cómo es que utilizan Python de manera profesional.
